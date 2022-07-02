@@ -29,14 +29,10 @@ const SinglePage = () => {
               <div className='para'>
                 <h3>Date : {item.date}</h3>
                 <p>{item.desc}</p>
-                <p>Get access to the direct Project Overview with this report. Just by a quick glance, you’ll have an idea of the total tasks allotted to the team, number of milestones given & completed, total Links created for the project and the total time taken by all the users. Each section would elaborate the data further, if chosen.</p>
-                <p>Get access to the direct Project Overview with this report. Just by a quick glance, you’ll have an idea of the total tasks allotted to the team, number of milestones given & completed, total Links created for the project and the total time taken by all the users. Each section would elaborate the data further, if chosen.</p>
-                <p>Get access to the direct Project Overview with this report. Just by a quick glance, you’ll have an idea of the total tasks allotted to the team, number of milestones given & completed, total Links created for the project and the total time taken by all the users. Each section would elaborate the data further, if chosen.</p>
+                <p>Amazon Web Services (AWS) is the worlds most comprehensive and broadly adopted cloud platform, offering over 200 services such as compute, databases, and storage.</p>
               </div>
               <div className='soical'>
                 <h3>Share : </h3>
-                <img src='https://img.icons8.com/color/48/000000/facebook-new.png' />
-                <img src='https://img.icons8.com/fluency/48/000000/twitter-circled.png' />
                 <img src='https://img.icons8.com/fluency/48/000000/linkedin-circled.png' />
               </div>
             </div>

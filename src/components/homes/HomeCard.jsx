@@ -49,7 +49,7 @@ const HomeCard = ({ item: { id, cover, name, rating, time, desc, starring, genre
                   <img src='./images/play-button.png' alt='' />
                   <img src='./images/play.png' className='change' />
                 </div>
-                WATCH TRAILER
+                WebFlix |  Watch Now
               </button>
             </Link>
           </div>

@@ -17,19 +17,19 @@ const Header = () => {
                 <a href='/'>Home</a>
               </li>
               <li>
-                <a href='/'>Series</a>
+                <a href='/'>TV Shows</a>
               </li>
               <li>
                 <a href='/'>Movies</a>
               </li>
               <li>
-                <a href='/'>Pages</a>
+                <a href='/'>Popular</a>
               </li>
               <li>
-                <a href='/'>Pricing</a>
+                <a href='/'>My Interests</a>
               </li>
               <li>
-                <a href='/'>Contact</a>
+                <a href='/'>Browse by Languages</a>
               </li>
             </ul>
             <button className='toggle' onClick={() => setMobile(!Mobile)}>
@@ -40,7 +40,7 @@ const Header = () => {
             <i className='fa fa-search'></i>
             <i class='fas fa-bell'></i>
             <i className='fas fa-user'></i>
-            <button>Subscribe Now</button>
+            <button>Subscribe</button>
           </div>
         </div>
       </header>
